@@ -12,6 +12,12 @@
     #D9D9D9;
     color: #5F0F40;
 }
+a.nav-link.px-5{
+    color: #5F0F40;
+}
+a.nav-link.dropdown-toggle{
+    color: #5F0F40;
+}
     .nav-link{
         color: 
         #5F0F40;
